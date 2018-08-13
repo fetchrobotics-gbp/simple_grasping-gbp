@@ -1,3 +1,26 @@
+## simple_grasping (lunar) - 0.2.2-0
+
+The packages in the `simple_grasping` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -r lunar -t lunar simple_grasping` on `Mon, 13 Aug 2018 20:40:15 -0000`
+
+The `simple_grasping` package was released.
+
+Version of package(s) in repository `simple_grasping`:
+
+- upstream repository: https://github.com/mikeferguson/simple_grasping.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.7`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## simple_grasping (jade) - 0.2.2-0
 
 The packages in the `simple_grasping` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade simple_grasping` on `Tue, 23 Aug 2016 19:17:13 -0000`
