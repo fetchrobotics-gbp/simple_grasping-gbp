@@ -1,0 +1,12 @@
+Source: ros-lunar-simple-grasping
+Section: misc
+Priority: extra
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), libvtk6-qt-dev, ros-lunar-actionlib, ros-lunar-catkin, ros-lunar-cmake-modules, ros-lunar-geometry-msgs, ros-lunar-grasping-msgs, ros-lunar-message-generation, ros-lunar-moveit-msgs, ros-lunar-pcl-ros, ros-lunar-roscpp, ros-lunar-sensor-msgs, ros-lunar-shape-msgs, ros-lunar-tf
+Homepage: http://ros.org/wiki/simple_grasping
+Standards-Version: 3.9.2
+
+Package: ros-lunar-simple-grasping
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libvtk6-qt-dev, ros-lunar-actionlib, ros-lunar-geometry-msgs, ros-lunar-grasping-msgs, ros-lunar-message-runtime, ros-lunar-moveit-msgs, ros-lunar-moveit-python, ros-lunar-pcl-ros, ros-lunar-roscpp, ros-lunar-sensor-msgs, ros-lunar-shape-msgs, ros-lunar-tf
+Description: Basic grasping applications and demos.
