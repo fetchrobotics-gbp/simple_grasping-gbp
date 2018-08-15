@@ -1,0 +1,39 @@
+ros-melodic-simple-grasping (0.3.1-0stretch) stretch; urgency=high
+
+  * insert proper key name
+  * Contributors: Michael Ferguson
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Tue, 14 Aug 2018 04:00:00 -0000
+
+ros-melodic-simple-grasping (0.3.0-0stretch) stretch; urgency=high
+
+  * Merge pull request #4 <https://github.com/mikeferguson/simple_grasping/issues/4> from mikaelarguedas/patch-1
+    add libvtk6-qt-dev dependency to build on Debian Stretch
+  * add libvtk6-qt-dev dependency to build on Debian Stretch
+    the libpcl-dev package is missing a dependency causing the Qt5::Widgets target to be exported but not satisfied.
+  * Contributors: Michael Ferguson, Mikael Arguedas
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Tue, 14 Aug 2018 04:00:00 -0000
+
+ros-melodic-simple-grasping (0.2.2-0stretch) stretch; urgency=high
+
+  * parameterize gripper opening tolerance
+  * Contributors: Michael Ferguson
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Fri, 24 Apr 2015 04:00:00 -0000
+
+ros-melodic-simple-grasping (0.2.1-0stretch) stretch; urgency=high
+
+  * create standalone grasp_planner_node
+  * Contributors: Michael Ferguson
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Sun, 05 Apr 2015 04:00:00 -0000
+
+ros-melodic-simple-grasping (0.2.0-0stretch) stretch; urgency=high
+
+  * Initial release
+  * Contributors: Michael Ferguson
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Wed, 18 Mar 2015 04:00:00 -0000
+
+
