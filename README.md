@@ -1,3 +1,26 @@
+## simple_grasping (noetic) - 0.4.0-1
+
+The packages in the `simple_grasping` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic simple_grasping` on `Wed, 13 Jan 2021 05:12:06 -0000`
+
+The `simple_grasping` package was released.
+
+Version of package(s) in repository `simple_grasping`:
+
+- upstream repository: https://github.com/mikeferguson/simple_grasping.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.20`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.40`
+
+
 ## simple_grasping (melodic) - 0.3.1-0
 
 The packages in the `simple_grasping` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic simple_grasping` on `Wed, 15 Aug 2018 00:55:56 -0000`
