@@ -1,0 +1,12 @@
+Source: ros-melodic-simple-grasping
+Section: misc
+Priority: optional
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-actionlib, ros-melodic-catkin, ros-melodic-cmake-modules, ros-melodic-geometry-msgs, ros-melodic-grasping-msgs, ros-melodic-message-generation, ros-melodic-moveit-msgs, ros-melodic-pcl-ros, ros-melodic-roscpp, ros-melodic-sensor-msgs, ros-melodic-shape-msgs, ros-melodic-tf
+Homepage: http://ros.org/wiki/simple_grasping
+Standards-Version: 3.9.2
+
+Package: ros-melodic-simple-grasping
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-actionlib, ros-melodic-geometry-msgs, ros-melodic-grasping-msgs, ros-melodic-message-runtime, ros-melodic-moveit-msgs, ros-melodic-moveit-python, ros-melodic-pcl-ros, ros-melodic-roscpp, ros-melodic-sensor-msgs, ros-melodic-shape-msgs, ros-melodic-tf
+Description: Basic grasping applications and demos.
